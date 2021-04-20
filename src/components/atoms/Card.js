@@ -32,7 +32,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
       </div>
       <Modal show={open} handleClose={() => setopen(false)}>
         {/* <p>Modal</p> */}
-        <Carousel images={images} />
+        {/* <Carousel images={images} /> */}
       </Modal>
     </div>
   )
