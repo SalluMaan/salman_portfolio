@@ -26,7 +26,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "Muhammad Saman Hafeez",
+  name: "Muhammad Salman Hafeez",
   headerTagline: [
     //Line 1 For Header
     "Building Beautifull",
