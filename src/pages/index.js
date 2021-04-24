@@ -9,7 +9,6 @@ import About from "../components/about"
 import Skills from "../components/skills"
 import Promotion from "../components/Promotion"
 import Footer from "../components/Footer"
-import "react-gallery-carousel/dist/index.css"
 
 const IndexPage = () => (
   <Layout>

@@ -2,7 +2,6 @@ import React, { useState } from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
 import { Modal } from "./Modal/Modal"
-import Carousel from "react-gallery-carousel"
 import CVIcon from "../images/cv.svg"
 
 const Footer = () => {

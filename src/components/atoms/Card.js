@@ -1,6 +1,5 @@
 import React, { useState } from "react"
 import { Modal } from "../Modal/Modal"
-import Carousel from "react-gallery-carousel"
 
 const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
   const [open, setopen] = useState(false)
@@ -13,7 +12,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
       className="card"
       style={{
         backgroundImage:
-          "linear-gradient(to bottom, rgba(245, 246, 252, 0), rgba(0, 0, 0, 0.2)),url(" +
+          "linear-gradient(to bottom, rgba(245, 246, 252, 0), rgba(0, 0, 0, 0.7)),url(" +
           imgUrl +
           ")",
       }}
@@ -25,15 +24,16 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
           target="_blank"
           rel="noopener noreferrer"
           className="btn"
-          onClick={() => setopen(true)}
+          href={projectLink}
+          // onClick={() => setopen(true)}
         >
           Explore
         </a>
       </div>
-      <Modal show={open} handleClose={() => setopen(false)}>
-        {/* <p>Modal</p> */}
-        {/* <Carousel images={images} /> */}
-      </Modal>
+      {/* <Modal show={open} handleClose={() => setopen(false)}> */}
+      {/* <p>Modal</p> */}
+      {/* <Carousel images={images} /> */}
+      {/* </Modal> */}
     </div>
   )
 }
