@@ -299,7 +299,7 @@ export default {
     {
       img: CVIcon,
       url:
-        "https://drive.google.com/file/d/1ijmq2MYmUcwIqHcuAo71oNYBMvZJZzHB/view?usp=sharing",
+        "https://drive.google.com/file/d/1NBy6oNXMzM77eqktzTrqLNBzwAsXfdO4/view?usp=sharing",
     },
   ],
 
