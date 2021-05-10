@@ -50,6 +50,57 @@ export default {
   // Work Section ------------------------
   projects: [
     {
+      title: "Loopa The Garbage Collector", //Project Title - Add Your Project Title Here
+      para: "Book Your Garbage Collector in Your Area.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: "https://i.ibb.co/WHPXQRM/Capture.png",
+      //Project URL - Add Your Project Url Here
+      url: "https://loopa.p2gmanagement.xyz/new-shop/home",
+    },
+    {
+      title: "Multi-Vendor App", //Project Title - Add Your Project Title Here
+      para:
+        "Customer order products on Customer End App & Admin will process the Order on Admin App.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: "https://i.ibb.co/TY1jCQD/multivendor.png",
+      //Project URL - Add Your Project Url Here
+      url:
+        "https://drive.google.com/drive/folders/171LY4Iyk0qPDvzw78BSC7dsl9uFhtzwO?usp=sharing",
+    },
+
+    {
+      title: "Barber System App", //Project Title - Add Your Project Title Here
+      para:
+        "Customer order services from the Barber on Customer End App & Admin will process that service for customer on Admin App.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: "https://i.ibb.co/hmNY6Mg/barber.png",
+      //Project URL - Add Your Project Url Here
+      url:
+        "https://drive.google.com/drive/folders/171LY4Iyk0qPDvzw78BSC7dsl9uFhtzwO?usp=sharing",
+    },
+
+    {
+      title: "Evez App", //Project Title - Add Your Project Title Here
+      para:
+        "Anyone who likes going outside Just open the app and participate in event and earn credits.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: "https://i.ibb.co/FXp1psS/evez.png",
+      //Project URL - Add Your Project Url Here
+      url:
+        "https://drive.google.com/drive/folders/171LY4Iyk0qPDvzw78BSC7dsl9uFhtzwO?usp=sharing",
+    },
+
+    {
+      title: "QuikiPay App", //Project Title - Add Your Project Title Here
+      para: "Blockchain Application & Payment Solution All over the World.", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: "https://i.ibb.co/qgShS2d/QuikiPay.png",
+      //Project URL - Add Your Project Url Here
+      url:
+        "https://drive.google.com/drive/folders/171LY4Iyk0qPDvzw78BSC7dsl9uFhtzwO?usp=sharing",
+    },
+
+    {
       title: "A-Plus HomeCare", //Project Title - Add Your Project Title Here
       para:
         "Patients (AGED/DISABLED) book caregiver & intake coordinator who help them in daily house routine.", // Add Your Service Type Here
@@ -73,8 +124,7 @@ export default {
       title: "Behaviour World Application", //Project Title - Add Your Project Title Here
       para: "Simple Game for Special Kids.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.ibb.co/N6HrRYj/screencapture-behaviorworld-facebhoook-2021-04-17-20-36-47-1.png",
+      imageSrc: "https://i.ibb.co/zhKx8P3/Capture.png",
       //Project URL - Add Your Project Url Here
       url: "https://behaviorworld.facebhoook.com/",
     },
@@ -107,64 +157,10 @@ export default {
       //Project URL - Add Your Project Url Here
       // url: "https://behaviorworld.facebhoook.com/",
     },
-    {
-      title: "Loopa The Garbage Collector", //Project Title - Add Your Project Title Here
-      para: "Book Your Garbage Collector in Your Area.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://i.ibb.co/0KZWb3g/screencapture-loopa-p2gmanagement-xyz-new-shop-home-2021-04-17-20-47-51.png",
-      //Project URL - Add Your Project Url Here
-      url: "https://loopa.p2gmanagement.xyz/new-shop/home",
-    },
-    {
-      title: "Multi-Vendor App", //Project Title - Add Your Project Title Here
-      para:
-        "Customer order products on Customer End App & Admin will process the Order on Admin App.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-      //Project URL - Add Your Project Url Here
-      url:
-        "https://drive.google.com/drive/folders/171LY4Iyk0qPDvzw78BSC7dsl9uFhtzwO?usp=sharing",
-    },
 
-    {
-      title: "Barber System App", //Project Title - Add Your Project Title Here
-      para:
-        "Customer order services from the Barber on Customer End App & Admin will process that service for customer on Admin App.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-      //Project URL - Add Your Project Url Here
-      url:
-        "https://drive.google.com/drive/folders/171LY4Iyk0qPDvzw78BSC7dsl9uFhtzwO?usp=sharing",
-    },
-
-    {
-      title: "Evez App", //Project Title - Add Your Project Title Here
-      para:
-        "Anyone who likes going outside Just open the app and participate in event and earn credits.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-      //Project URL - Add Your Project Url Here
-      url:
-        "https://drive.google.com/drive/folders/171LY4Iyk0qPDvzw78BSC7dsl9uFhtzwO?usp=sharing",
-    },
     {
       title: "Ecommerce App", //Project Title - Add Your Project Title Here
       para: "Two in one App(Admin/Customer).Simple Ecommerce Application", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
-      //Project URL - Add Your Project Url Here
-      url:
-        "https://drive.google.com/drive/folders/171LY4Iyk0qPDvzw78BSC7dsl9uFhtzwO?usp=sharing",
-    },
-
-    {
-      title: "QuikiPay App", //Project Title - Add Your Project Title Here
-      para: "Blockchain Application & Payment Solution All over the World.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1546054454-aa26e2b734c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80",
